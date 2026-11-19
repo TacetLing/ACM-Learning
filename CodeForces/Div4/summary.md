@@ -1,3 +1,10 @@
+<img width="908" height="405" alt="image" src="https://github.com/user-attachments/assets/47d7ea30-2052-42f0-892f-003fa691d4cf" />
+
+
+做完了 来复盘一下。
+ABCD没有意义，不讲。
+
+
 # CF2290E Avalanche
 
 ## 题目描述
